@@ -1,0 +1,16 @@
+{
+  "name": "plugin",
+  "version": "1.0.0",
+  "description": "webpack插件",
+  "private": true,
+  "scripts": {
+    "test": "npm run test",
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "rubbishmaker",
+  "license": "ISC"
+}
